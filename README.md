@@ -1,6 +1,8 @@
 # Arduino-Pedelec-Controller-PCB
 PCB files for the Arduino Pedelec Controller
 
+More info see http://www.pedelecforum.de/wiki/doku.php?id=elektrotechnik:forumscontroller
+
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
 This work is licensed under a
